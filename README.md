@@ -40,8 +40,6 @@ A few highlights from my work:
 - **AITabManager** — browser productivity and tab management
 - **DubHacks2025ScheduleBuilderAPI** — AI-assisted calendar productivity and schedule building
 - **DubHacks2025ScheduleBuilderFlutter** — companion app experience for schedule building
-- **AgentJobAutomation** — automation for job-related workflows
-- **OpenCVLearning** — computer vision experiments and learning
 - **A few private AI/app projects** — ongoing tools and experiments I’m building behind the scenes
 
 ---
