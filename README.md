@@ -58,16 +58,11 @@ A few highlights from my work:
 </p>
 
 <p align="center">
-  <a href="https://kridos.github.io/">
-    <img src="./portfolio-btn.svg" alt="Portfolio" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/kdoshi2/">
-    <img src="./linkedin-btn.svg" alt="LinkedIn" />
-  </a>&nbsp;&nbsp;
-  <a href="#featured-repositories">
-    <img src="./featured-repos-btn.svg" alt="Featured Repos" />
-  </a>&nbsp;&nbsp;
-  <a href="#tech-stack">
-    <img src="./tech-stack-btn.svg" alt="Tech Stack" />
-  </a>
+  <a href="https://kridos.github.io/">Portfolio</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/kdoshi2/">LinkedIn</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="#featured-repositories">Featured Repos</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="#tech-stack">Tech Stack</a>
 </p>
