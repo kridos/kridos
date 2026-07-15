@@ -2,31 +2,11 @@
   <img src="./banner.svg" alt="Krish Doshi banner" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=720&lines=AI+tools+%7C+automation+%7C+planning+apps;Full-stack+software+%7C+ML+%7C+robotics;Building+projects+that+solve+real+problems" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://kridos.github.io/">Portfolio</a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/kdoshi2/">LinkedIn</a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="#featured-repositories">Featured Repos</a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="#current-focus">Current Focus</a>
-</p>
-
----
-
-## Hi, I'm Krish Doshi 👋
-
-I build practical software that combines **AI, automation, planning, and full-stack development**.
-
-> I like making tools that save time, reduce repetitive work, and feel clean to use.
-
----
-
 ## What I Build
+
+I like building projects that combine **software engineering, automation, and practical problem solving**.
+
+> Building tools that save time, reduce repetitive work, and feel good to use.
 
 <div align="center">
 
@@ -74,11 +54,15 @@ A few highlights from my work:
 ---
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=720&lines=AI+tools+%7C+automation+%7C+planning+apps;Full-stack+software+%7C+ML+%7C+robotics;Building+projects+that+solve+real+problems" alt="Typing SVG" />
+</p>
+
+<p align="center">
   <a href="https://kridos.github.io/">Portfolio</a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/kdoshi2/">LinkedIn</a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="#featured-repositories">Featured Repos</a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="#current-focus">Current Focus</a>
+  <a href="#tech-stack">Tech Stack</a>
 </p>
