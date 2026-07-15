@@ -59,15 +59,15 @@ A few highlights from my work:
 
 <p align="center">
   <a href="https://kridos.github.io/">
-    <img src="./portfolio-button.svg" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/kdoshi2/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge" />
   </a>
   <a href="#featured-repositories">
-    <img src="https://img.shields.io/badge/Featured%20Repos-2563eb?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Featured%20Repos-111827?style=for-the-badge" />
   </a>
   <a href="#tech-stack">
-    <img src="https://img.shields.io/badge/Tech%20Stack-059669?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Tech%20Stack-111827?style=for-the-badge" />
   </a>
 </p>
