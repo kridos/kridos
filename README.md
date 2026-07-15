@@ -2,27 +2,6 @@
   <img src="./banner.svg" alt="Krish Doshi banner" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=720&lines=AI+tools+%7C+automation+%7C+planning+apps;Full-stack+software+%7C+ML+%7C+robotics;Building+projects+that+solve+real+problems" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://kridos.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=aboutdotme&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/kdoshi2/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="#featured-repositories">
-    <img src="https://img.shields.io/badge/Featured%20Repos-2563eb?style=for-the-badge" />
-  </a>
-  <a href="#tech-stack">
-    <img src="https://img.shields.io/badge/Tech%20Stack-059669?style=for-the-badge" />
-  </a>
-</p>
-
----
-
 ## What I Build
 
 I like building projects that combine **software engineering, automation, and practical problem solving**.
@@ -76,7 +55,21 @@ A few highlights from my work:
 
 ---
 
-## Connect With Me
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=720&lines=AI+tools+%7C+automation+%7C+planning+apps;Full-stack+software+%7C+ML+%7C+robotics;Building+projects+that+solve+real+problems" alt="Typing SVG" />
+</p>
 
-- Portfolio: [kridos.github.io](https://kridos.github.io/)
-- LinkedIn: [kdoshi2](https://www.linkedin.com/in/kdoshi2/)
+<p align="center">
+  <a href="https://kridos.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=aboutdotme&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/kdoshi2/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="#featured-repositories">
+    <img src="https://img.shields.io/badge/Featured%20Repos-2563eb?style=for-the-badge" />
+  </a>
+  <a href="#tech-stack">
+    <img src="https://img.shields.io/badge/Tech%20Stack-059669?style=for-the-badge" />
+  </a>
+</p>
