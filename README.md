@@ -1,15 +1,20 @@
 <h1 align="center">Hi, I'm kridos 👋</h1>
-<h3 align="center">I build AI tools, planning apps, and software that solves real problems</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=700&lines=AI+tools+%7C+automation+%7C+planning+apps;Full-stack+software+%7C+ML+%7C+robotics;Building+projects+that+solve+real+problems" alt="Typing SVG" />
+</p>
 
 <p align="center">
-  <a href="#about-me">
-    <img src="https://img.shields.io/badge/AI%20%26%20Automation-7c3aed?style=for-the-badge" />
-  </a>
-  <a href="#what-youll-find-here">
-    <img src="https://img.shields.io/badge/Full--Stack-2563eb?style=for-the-badge" />
+  <a href="#what-i-build">
+    <img src="https://img.shields.io/badge/What%20I%20Build-7c3aed?style=for-the-badge" />
   </a>
   <a href="#featured-repositories">
-    <img src="https://img.shields.io/badge/Featured%20Projects-059669?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Featured%20Repos-2563eb?style=for-the-badge" />
+  </a>
+  <a href="#tech-stack">
+    <img src="https://img.shields.io/badge/Tech%20Stack-059669?style=for-the-badge" />
+  </a>
+  <a href="#connect-with-me">
+    <img src="https://img.shields.io/badge/Connect-111827?style=for-the-badge" />
   </a>
 </p>
 
@@ -21,17 +26,22 @@
 
 ---
 
-## About Me
+## What I Build
 
 I like building projects that combine **software engineering, automation, and practical problem solving**.
 
-A lot of my work centers around:
-- 🤖 AI tools and automation
-- 📅 scheduling and planning apps
-- 🎵 music-related software
-- 📊 data, statistics, and machine learning
-- 🧰 useful utilities and full-stack applications
-- 🦾 robotics and embedded-style projects
+<div align="center">
+
+| Focus | What that looks like |
+|---|---|
+| 🤖 AI & automation | job tools, finance tools, workflow helpers |
+| 📅 Planning & productivity | scheduling, assignments, organization |
+| 🎵 Music software | music-related apps and assistants |
+| 📊 Data & ML | OpenCV, neural nets, statistics projects |
+| 🧰 Full-stack utilities | useful apps, web tools, backend services |
+| 🦾 Robotics | FTC and embedded-style systems |
+
+</div>
 
 ---
 
@@ -43,21 +53,9 @@ A lot of my work centers around:
 
 ---
 
-## What You'll Find Here
-
-- **AI / automation projects** like job, finance, and workflow tools
-- **Planning and productivity apps** for schedules, assignments, and organization
-- **Web and backend projects** built with TypeScript, Python, and JavaScript
-- **Mobile / app experiments** in Dart, Kotlin, and TypeScript
-- **ML / data projects** including neural networks, OpenCV, and statistics work
-- **Robotics / engineering projects** from FTC and related systems
-- **Fun side projects** like games, music tools, and interactive apps
-
----
-
 ## Featured Repositories
 
-Here are a few highlights from my work:
+A few highlights from my work:
 
 - **FinanceRAG** — AI-assisted finance research and retrieval
 - **AgentJobAutomation** — automation for job-related workflows
