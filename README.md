@@ -1,11 +1,14 @@
-<h1 align="center">Hi, I'm Krish Doshi 👋</h1>
+<p align="center">
+  <img src="./banner.svg" alt="Krish Doshi banner" />
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=720&lines=AI+tools+%7C+automation+%7C+planning+apps;Full-stack+software+%7C+ML+%7C+robotics;Building+projects+that+solve+real+problems" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://kridos.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=githubpages&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=aboutdotme&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/kdoshi2/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />

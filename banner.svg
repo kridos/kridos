@@ -1,0 +1,26 @@
+<svg width="1200" height="240" viewBox="0 0 1200 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="240" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="140" y1="40" x2="1080" y2="200" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7C3AED" stop-opacity="0.9"/>
+      <stop offset="0.5" stop-color="#2563EB" stop-opacity="0.8"/>
+      <stop offset="1" stop-color="#059669" stop-opacity="0.85"/>
+    </linearGradient>
+    <filter id="blur" x="0" y="0" width="1200" height="240" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="26"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="240" rx="28" fill="url(#bg)"/>
+  <circle cx="180" cy="70" r="68" fill="#7C3AED" fill-opacity="0.16" filter="url(#blur)"/>
+  <circle cx="1040" cy="180" r="92" fill="#2563EB" fill-opacity="0.14" filter="url(#blur)"/>
+  <path d="M95 184C230 110 350 94 480 118C612 142 725 195 860 180C970 168 1075 112 1120 92" stroke="url(#accent)" stroke-width="4" stroke-linecap="round" stroke-opacity="0.55"/>
+  <path d="M95 184C230 110 350 94 480 118C612 142 725 195 860 180C970 168 1075 112 1120 92" stroke="#FFFFFF" stroke-opacity="0.05" stroke-width="14" stroke-linecap="round"/>
+
+  <text x="80" y="95" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="34" font-weight="700">Krish Doshi</text>
+  <text x="80" y="132" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="500">AI tools • automation • full-stack software • ML • robotics</text>
+  <text x="80" y="165" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400">Building practical software that feels clean, useful, and thoughtfully designed</text>
+</svg>
