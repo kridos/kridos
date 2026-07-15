@@ -2,11 +2,21 @@
 <h3 align="center">I build AI tools, planning apps, and software that solves real problems</h3>
 
 <p align="center">
+  <a href="#about-me">
+    <img src="https://img.shields.io/badge/AI%20%26%20Automation-7c3aed?style=for-the-badge" />
+  </a>
+  <a href="#what-youll-find-here">
+    <img src="https://img.shields.io/badge/Full--Stack-2563eb?style=for-the-badge" />
+  </a>
+  <a href="#featured-repositories">
+    <img src="https://img.shields.io/badge/Featured%20Projects-059669?style=for-the-badge" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/kridos">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/AI%20%26%20Automation-7c3aed?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Full--Stack-2563eb?style=for-the-badge" />
 </p>
 
 ---
@@ -60,12 +70,12 @@ Here are a few highlights from my work:
 
 ---
 
-## GitHub Stats
+## Current Focus
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kridos&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kridos&layout=compact&theme=tokyonight" />
-</p>
+- Building tools that save time and reduce repetitive work
+- Mixing AI features into practical applications
+- Improving planning, productivity, and automation workflows
+- Exploring robotics, ML, and creative software projects
 
 ---
 
