@@ -36,13 +36,13 @@ I like building projects that combine **software engineering, automation, and pr
 A few highlights from my work:
 
 - **FinanceRAG** — AI-assisted finance research and retrieval
-- **AgentJobAutomation** — automation for job-related workflows
-- **Assignment-Optimizer** — planning and optimization for assignments
+- **MarchingShowPlanner** — multi-agent planner for marching shows with planned paths
 - **AITabManager** — browser productivity and tab management
-- **MusicVoiceAssistant-Backend** — backend services for music interactions
-- **MarchingShowPlanner** — planning tools for marching band workflows
+- **DubHacks2025ScheduleBuilderAPI** — AI-assisted calendar productivity and schedule building
+- **DubHacks2025ScheduleBuilderFlutter** — companion app experience for schedule building
+- **AgentJobAutomation** — automation for job-related workflows
 - **OpenCVLearning** — computer vision experiments and learning
-- **FtcRobotController** — robotics and control systems work
+- **A few private AI/app projects** — ongoing tools and experiments I’m building behind the scenes
 
 ---
 
@@ -61,7 +61,7 @@ A few highlights from my work:
 
 <p align="center">
   <a href="https://kridos.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=aboutdotme&logoColor=white" />
+    <img src="./portfolio-button.svg" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/kdoshi2/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
