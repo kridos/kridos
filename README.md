@@ -77,4 +77,3 @@ A few highlights from my work:
 
 - Portfolio: [kridos.github.io](https://kridos.github.io/)
 - LinkedIn: [kdoshi2](https://www.linkedin.com/in/kdoshi2/)
-- GitHub: [kridos](https://github.com/kridos)
