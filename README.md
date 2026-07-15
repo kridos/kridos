@@ -1,26 +1,20 @@
-<h1 align="center">Hi, I'm kridos 👋</h1>
+<h1 align="center">Hi, I'm Krish Doshi 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=700&lines=AI+tools+%7C+automation+%7C+planning+apps;Full-stack+software+%7C+ML+%7C+robotics;Building+projects+that+solve+real+problems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=720&lines=AI+tools+%7C+automation+%7C+planning+apps;Full-stack+software+%7C+ML+%7C+robotics;Building+projects+that+solve+real+problems" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="#what-i-build">
-    <img src="https://img.shields.io/badge/What%20I%20Build-7c3aed?style=for-the-badge" />
+  <a href="https://kridos.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=githubpages&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/kdoshi2/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="#featured-repositories">
     <img src="https://img.shields.io/badge/Featured%20Repos-2563eb?style=for-the-badge" />
   </a>
   <a href="#tech-stack">
     <img src="https://img.shields.io/badge/Tech%20Stack-059669?style=for-the-badge" />
-  </a>
-  <a href="#connect-with-me">
-    <img src="https://img.shields.io/badge/Connect-111827?style=for-the-badge" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/kridos">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -29,6 +23,8 @@
 ## What I Build
 
 I like building projects that combine **software engineering, automation, and practical problem solving**.
+
+> Building tools that save time, reduce repetitive work, and feel good to use.
 
 <div align="center">
 
@@ -48,7 +44,7 @@ I like building projects that combine **software engineering, automation, and pr
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,kotlin,dart,cpp,html,css,git,github,docker,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,kotlin,dart,cpp,html,css,git,docker,vscode" />
 </p>
 
 ---
@@ -79,7 +75,6 @@ A few highlights from my work:
 
 ## Connect With Me
 
+- Portfolio: [kridos.github.io](https://kridos.github.io/)
+- LinkedIn: [kdoshi2](https://www.linkedin.com/in/kdoshi2/)
 - GitHub: [kridos](https://github.com/kridos)
-- LinkedIn: add your link here
-- Portfolio: add your link here
-- Email: add your email here
