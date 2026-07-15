@@ -1,37 +1,62 @@
 <h1 align="center">Hi, I'm kridos 👋</h1>
-<h3 align="center">Developer • Builder • Lifelong Learner</h3>
+<h3 align="center">I build AI tools, planning apps, and software that solves real problems</h3>
 
 <p align="center">
   <a href="https://github.com/kridos">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <img src="https://img.shields.io/badge/AI%20%26%20Automation-7c3aed?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Full--Stack-2563eb?style=for-the-badge" />
 </p>
 
 ---
 
 ## About Me
 
-- 🔭 I’m currently working on **interesting projects**
-- 🌱 I’m currently learning **new tools and technologies**
-- 👯 I’m open to collaborating on **cool ideas and useful software**
-- 💬 Ask me about **development, automation, or building things**
-- ⚡ Fun fact: **I like making things simple and useful**
+I like building projects that combine **software engineering, automation, and practical problem solving**.
+
+A lot of my work centers around:
+- 🤖 AI tools and automation
+- 📅 scheduling and planning apps
+- 🎵 music-related software
+- 📊 data, statistics, and machine learning
+- 🧰 useful utilities and full-stack applications
+- 🦾 robotics and embedded-style projects
 
 ---
 
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,python,js,html,css,git,github,docker,azure,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,kotlin,dart,cpp,html,css,git,github,docker,vscode" />
 </p>
 
 ---
 
-## Featured Projects
+## What You'll Find Here
 
-- **Project One** — short description of what it does
-- **Project Two** — short description of what it does
-- **Project Three** — short description of what it does
+- **AI / automation projects** like job, finance, and workflow tools
+- **Planning and productivity apps** for schedules, assignments, and organization
+- **Web and backend projects** built with TypeScript, Python, and JavaScript
+- **Mobile / app experiments** in Dart, Kotlin, and TypeScript
+- **ML / data projects** including neural networks, OpenCV, and statistics work
+- **Robotics / engineering projects** from FTC and related systems
+- **Fun side projects** like games, music tools, and interactive apps
+
+---
+
+## Featured Repositories
+
+Here are a few highlights from my work:
+
+- **FinanceRAG** — AI-assisted finance research and retrieval
+- **AgentJobAutomation** — automation for job-related workflows
+- **Assignment-Optimizer** — planning and optimization for assignments
+- **AITabManager** — browser productivity and tab management
+- **MusicVoiceAssistant-Backend** — backend services for music interactions
+- **MarchingShowPlanner** — planning tools for marching band workflows
+- **OpenCVLearning** — computer vision experiments and learning
+- **FtcRobotController** — robotics and control systems work
 
 ---
 
