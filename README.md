@@ -56,13 +56,3 @@ A few highlights from my work:
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=720&lines=AI+tools+%7C+automation+%7C+planning+apps;Full-stack+software+%7C+ML+%7C+robotics;Building+projects+that+solve+real+problems" alt="Typing SVG" />
 </p>
-
-<p align="center">
-  <a href="https://kridos.github.io/">Portfolio</a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/kdoshi2/">LinkedIn</a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="#featured-repositories">Featured Repos</a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="#tech-stack">Tech Stack</a>
-</p>
